@@ -5,6 +5,11 @@
       <excludeFolder url="file://$MODULE_DIR$/temp" />
       <excludeFolder url="file://$MODULE_DIR$/.tmp" />
       <excludeFolder url="file://$MODULE_DIR$/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/server/dist/api" />
+      <excludeFolder url="file://$MODULE_DIR$/server/dist/config" />
+      <excludeFolder url="file://$MODULE_DIR$/server/dist/database" />
+      <excludeFolder url="file://$MODULE_DIR$/server/dist/utils" />
+      <excludeFolder url="file://$MODULE_DIR$/server/dist/validation" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
